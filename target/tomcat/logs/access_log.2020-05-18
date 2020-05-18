@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:39 +0800] "GET /travel2 HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:39 +0800] "GET /travel2/ HTTP/1.1" 304 - http-bio-80-exec-3 8
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:39 +0800] "GET /travel2/js/jQuery%201.10.0.js HTTP/1.1" 304 - http-bio-80-exec-4 2
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:40 +0800] "GET /travel2/findUserServlet HTTP/1.1" 404 997 http-bio-80-exec-5 3
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:42 +0800] "GET /travel2/css/bootstrap.min.css.map HTTP/1.1" 404 1017 http-bio-80-exec-6 1
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:45 +0800] "GET /travel2/register.html HTTP/1.1" 200 9751 http-bio-80-exec-7 2
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:45 +0800] "GET /travel2/findUserServlet HTTP/1.1" 404 997 http-bio-80-exec-2 2
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:25:45 +0800] "GET /travel2/checkCodeServlet HTTP/1.1" 200 402 http-bio-80-exec-8 192
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:26:49 +0800] "POST /travel2/registerUserServlet HTTP/1.1" 200 41 http-bio-80-exec-1 374
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:26:49 +0800] "GET /travel2/register_ok.html HTTP/1.1" 200 959 http-bio-80-exec-1 1
+0:0:0:0:0:0:0:1 - - [18/May/2020:15:26:49 +0800] "GET /travel2/findUserServlet HTTP/1.1" 404 997 http-bio-80-exec-1 1
